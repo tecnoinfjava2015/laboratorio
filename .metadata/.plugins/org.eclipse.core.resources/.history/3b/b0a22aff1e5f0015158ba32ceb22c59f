@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd" id="Application_ID" version="7">
+  <display-name>Sapo_Project</display-name>
+  <module>
+    <ejb>Sapo_EJB.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>Sapo_UI_BackOffice.war</web-uri>
+      <context-root>Sapo_UI_BackOffice</context-root>
+    </web>
+  </module>
+</application>

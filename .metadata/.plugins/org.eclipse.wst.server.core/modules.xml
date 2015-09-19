@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Sapo_UI_FrontOffice" serverId="WildFly 8.x1442701316245"/>
+  <module moduleId="org.eclipse.jst.jee.server:Sapo_Project" serverId="WildFly 8.x1442701316245"/>
+</modules>
