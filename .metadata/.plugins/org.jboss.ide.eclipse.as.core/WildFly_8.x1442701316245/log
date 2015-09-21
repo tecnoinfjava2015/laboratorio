@@ -23,3 +23,25 @@
 
 !ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-09-19 19:40:45.061
 !MESSAGE Module Sapo_UI_FrontOffice on WildFly 8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-09-19 22:31:33.214
+!MESSAGE Module Sapo_UI_FrontOffice on WildFly 8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2015-09-19 22:31:53.277
+!MESSAGE Module Sapo_UI_FrontOffice on WildFly 8.x still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.wtp.core 1 16973825 2015-09-19 22:41:18.624
+!MESSAGE Server processes have been terminated.
+!SESSION 
+
+!ENTRY org.jboss.ide.eclipse.as.core 4 0 2015-09-20 20:25:54.027
+!MESSAGE The server "WildFly 8.x" requires a JDK to run properly. The VM used to launch this server is not recognized as a valid JDK. C:\Program Files\Java\jre1.8.0_51 
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2015-09-20 20:25:58.734
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2015-09-20 20:26:13.540
+!MESSAGE Module Sapo_Project on WildFly 8.x not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2015-09-20 20:26:13.567
+!MESSAGE Server Startup Succeeded

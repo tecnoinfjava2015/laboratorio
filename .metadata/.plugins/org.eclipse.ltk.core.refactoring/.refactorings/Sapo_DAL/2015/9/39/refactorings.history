@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;Sapo_DAL&apos;&#x0D;&#x0A;- Original project: &apos;Sapo_DAL&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     bson-3.0.2-javadoc.jar&#x0D;&#x0A;     mongodb-driver-async-3.0.2-javadoc.jar&#x0D;&#x0A;     mongodb-driver-core-3.0.2-javadoc.jar" description="Delete elements" element1="bson-3.0.2-javadoc.jar" element2="mongodb-driver-async-3.0.2-javadoc.jar" element3="mongodb-driver-core-3.0.2-javadoc.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1442791470449" subPackages="false" version="1.0"/>
+</session>

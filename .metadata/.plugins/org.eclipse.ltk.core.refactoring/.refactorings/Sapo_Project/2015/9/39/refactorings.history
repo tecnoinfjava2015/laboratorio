@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Sapo_DAL&apos;&#x0D;&#x0A;- Original project: &apos;Sapo_Project&apos;&#x0D;&#x0A;- Destination element: &apos;Sapo_DAL&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     mongodb-driver-async-3.0.2-javadoc.jar&#x0D;&#x0A;     mongodb-driver-core-3.0.2-javadoc.jar&#x0D;&#x0A;     bson-3.0.2-javadoc.jar" description="Copy files" element1="EarContent/mongodb-driver-async-3.0.2-javadoc.jar" element2="EarContent/mongodb-driver-core-3.0.2-javadoc.jar" element3="EarContent/bson-3.0.2-javadoc.jar" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1442791464938" target="/Sapo_DAL" units="0" version="1.0"/>
+</session>

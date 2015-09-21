@@ -3,9 +3,10 @@
 	<name>Sapo_Project</name>
 	<comment></comment>
 	<projects>
-		<project>Sapo_EJB</project>
 		<project>Sapo_UI_BackOffice</project>
 		<project>Sapo_UI_FrontOffice</project>
+		<project>Sapo_DAL</project>
+		<project>Sapo_BLL</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

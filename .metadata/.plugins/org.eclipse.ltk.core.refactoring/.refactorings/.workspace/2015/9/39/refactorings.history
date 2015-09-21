@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Sapo_EJB&apos; to &apos;Sapo_DAL&apos;" description="Rename resource &apos;Sapo_EJB&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Sapo_EJB" name="Sapo_DAL" stamp="1442782860764" updateReferences="true"/>
+</session>
