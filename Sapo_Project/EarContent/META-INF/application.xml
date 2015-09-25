@@ -17,6 +17,12 @@
     <ejb>Sapo_DAL.jar</ejb>
   </module>
   <module>
+    <ejb>Sapo_Persistencia.jar</ejb>
+  </module>
+  <module>
+    <ejb>Sapo_Rest.jar</ejb>
+  </module>
+  <module>
     <ejb>Sapo_BLL.jar</ejb>
   </module>
 </application>
